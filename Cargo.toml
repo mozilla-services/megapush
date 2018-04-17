@@ -1,0 +1,8 @@
+[package]
+name = "megapush"
+version = "0.1.0"
+authors = ["Philip Jenvey <pjenvey@underboss.org>"]
+license = "MPL-2.0"
+
+[dependencies]
+state_machine_future = "0.1.5"
